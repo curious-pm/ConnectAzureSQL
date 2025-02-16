@@ -277,8 +277,6 @@ Follow these steps to execute the script successfully:
    ```bash
    python your_script_name.py
    ```
-   
 ---
-
 **Note:** Avoid hardcoding sensitive credentials in the script; use environment variables or configuration files instead.
-```
+
