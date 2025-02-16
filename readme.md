@@ -1,6 +1,3 @@
-Here's a comprehensive README guide for your code that interacts with an Azure SQL Database using `pymssql`:
-
-```markdown
 [Join Curious PM Community](https://curious.pm) to connect, share, and learn with others!
 
 ---
