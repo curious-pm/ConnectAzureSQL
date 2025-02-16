@@ -1,10 +1,10 @@
 import pymssql
 
 # Database connection parameters
-server = 'curiouspm.database.windows.net'
-database = 'RecipeApp'
-username = 'curious_pm_db'
-password = 'katzod-4Zixpi-hyqdib'
+server = 'your_server.database.windows.net'
+user = 'your_username'
+password = 'your_password'
+database = 'your_database'
 
 # Establish a connection to the database
 conn = pymssql.connect(server, username, password, database)
